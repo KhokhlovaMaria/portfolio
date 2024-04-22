@@ -1,0 +1,207 @@
+body {
+    font-family: "Roboto Condensed", sans-serif;
+    width: 1400px;
+    background: rgb(0, 0, 0);
+}
+
+.container {
+    margin: 0 auto;
+    width: 1400px;
+}
+
+.iam {
+    width: 1280px;
+    height: 765px;
+    background-image: url('/яя.jpeg');
+}
+
+.image-text {
+    position: absolute;
+    width: 430px;
+    height: 103px;
+    left: 125px;
+    right: 845px;
+    top: 440px;
+    bottom: 328px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: -3%;
+    text-align: left;
+    line-height: 26px;
+}
+
+.image-textim {
+    position: absolute;
+    width: 919px;
+    height: 205px;
+    left: 125px;
+    right: 362px;
+    top: 555px;
+    color: rgb(255, 0, 0);
+    font-size: 80px;
+    font-weight: 400;
+    line-height: 70px;
+    letter-spacing: -3%;
+    text-align: left;
+}
+
+.my_name {
+    margin-left: 125px;
+    color: rgb(255, 0, 0);
+    font-family: "Roboto Condensed";
+    font-size: 42.41px;
+    font-weight: 700;
+    line-height: 55px;
+    text-align: left;
+}
+
+.header {
+    padding-top: 27px;
+
+}
+
+.project {
+    margin-top: 40px;
+    color: white;
+        
+}
+
+h2 {
+    margin-top: 150px;
+    margin-left: 120px;
+    font-family: "Roboto Condensed";
+    font-size: 55px;
+    font-weight: 400;
+    line-height: 72px;
+    letter-spacing: -3%;
+    text-align: left;
+}
+
+.project-imag {
+    padding-top: 0 auto;
+    margin-left: 125px;
+    margin-top: 40px;
+}
+
+.fullwidthbtn {
+    margin-left: 125px;
+    margin-top: 80px;
+    display: block;
+    width: 582px;
+    height: 153px;
+    border: 1px solid rgb(255, 0, 0);
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    background-color: rgb(255, 0, 0);
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 153px;
+}
+
+.project-text {
+    position: absolute;
+    bottom: -300px;
+    left: 180px;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 39px;
+    letter-spacing: -3%;
+}
+
+.my {
+    margin-top: 150px;
+    margin-left: 125px;
+    color: white;
+}
+.my__com {
+    color: white;
+    font-size: 55px;
+    line-height: 72px;
+}
+
+.my__imag {
+    margin-top: 48px;
+
+}
+
+.my__about {
+    margin-top: 12px;
+    color: rgb(255, 0, 0);
+    font-size: 35px;
+    line-height: 46px;
+}
+
+.my__text {
+    margin-top: 15px;
+    width: 778px;
+    height: 116px;
+    color: white;
+    font-size: 22px;
+    line-height: 29px;
+    font-weight: 400;
+}
+
+.zad {
+    margin-top: 136px;
+    margin-left: 125px;
+    font-size: 35px;
+    line-height: 46px;
+    color: white;
+
+}
+
+.zad__imag {
+    margin-top: 74px;
+    margin-left: 125px;
+
+}
+
+.zad__imagblack {
+    margin-left: 125px;
+
+}
+
+.zad__about {
+    margin-left: 165px;
+    font-size: 55px;
+    line-height: 72px;
+    color: rgb(255, 0, 0);
+    position: absolute;
+    bottom: -1980px;
+}
+
+.zad__text {
+    margin-top: 15px;
+    margin-left: 165px;
+    margin-right: 486px;
+    font-size: 22px;
+    line-height: 29px;
+    position: absolute;
+    bottom: -2070px;
+    color: white;
+
+}
+
+
+.nav {
+    float: right;
+    margin-top: -28px;
+}
+
+.nav__link {
+    margin-left: 50px;
+    margin-right: ;
+    font-size: 18px;
+    line-height: 23px;
+    text-decoration: none;
+    color: black;
+
+}
+
+.nav__link:hover {
+    color: rgb(255, 0, 0);
+
+}
